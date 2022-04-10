@@ -4,12 +4,14 @@
 
 /**
  * main - prints a random number and states whether
- * 	  it is positive, negative, or zero.
+ *it is positive, negative, or zero.
  *
- * Return: always 0. 
+ *Return: Always 0. 
 */
 
-/*gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-last_digit.c -o 1-la st_digit*/
+/*gcc -Wall -pedantic -Werror -Wextra 
+ *-std=gnu89 1-last_digit.c -o 1-la st_digit
+*/
 int main(void)
 {
 int n;
