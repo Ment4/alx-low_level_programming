@@ -8,10 +8,6 @@
  *
  *Return: Always 0. 
 */
-
-/*gcc -Wall -pedantic -Werror -Wextra 
- *-std=gnu89 1-last_digit.c -o 1-la st_digit
-*/
 int main(void)
 {
 int n;
