@@ -2,9 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there */
+/**
+ * main - prints a random number and states whether
+ * 	  it is positive, negative, or zero.
+ *
+ * Return: always 0. 
+*/
 
-/* betty style doc for function main goes there */
+/*gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-last_digit.c -o 1-la st_digit*/
 int main(void)
 {
 int n;
@@ -14,7 +19,7 @@ if (n > 0)
 printf("%d is positive\n", n);
 else if (n < 0)
 printf("%d is negative\n", n);
-else 
- printf("%d is zero\n", n);
+else
+printf("%d is zero\n", n);
 return (0);
 }
