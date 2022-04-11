@@ -6,7 +6,7 @@
 
 /**
  * main - Entry point
- *
+ * Description: Write alphabet in lowercase
  * Return: Always 0 (Success/correct)
  */
 int main(void)
