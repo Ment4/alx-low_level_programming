@@ -4,9 +4,9 @@
 */
 #include <stdio.h>
 /**
- * main - prints the alphabet in lowercase, except for q and e.
+ * main - Entry point
  *
- * Return: Always 0.
+ * Return: Always 0 (Success/correct)
  */
 int main(void)
 {
