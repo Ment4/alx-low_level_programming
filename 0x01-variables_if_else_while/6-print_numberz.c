@@ -10,13 +10,13 @@
  * Return: Always 0.
  */
 int main(void)
+{
+	int i;
+	for (i = 0 ; i < 10; i++)
+	{
+		printf("%i", i);
+	}
+	printf("\n");
 
-{
-putchar (int num);
-for (num = 0; num < 10; num++)
-{
-putchar(num);
-}
-putchar ("\n");
-return (0);
+	return (0);
 }
