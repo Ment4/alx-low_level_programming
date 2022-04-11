@@ -3,11 +3,11 @@
 * Auth: Minte
 */
 #include <stdio.h>
-
 /**
  * main - Entry point
- * Description: Write alphabet in lowercase
- * Return: Always 0 (Success/correct)
+ *
+ * Description: Print lowercase alphabet excluding e and q
+ * Return: 0
  */
 int main(void)
 {
