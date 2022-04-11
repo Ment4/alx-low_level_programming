@@ -5,9 +5,10 @@
 #include <stdio.h>
 /**
  * main - prints the lowercase alphabet in reverse
- *
- * Return Always 0.
+ * Description: print lowercase alphabet backwards
+ * Return: 0
  */
+
 int main(void)
 {
 char c;
