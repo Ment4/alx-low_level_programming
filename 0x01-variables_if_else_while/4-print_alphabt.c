@@ -1,10 +1,10 @@
-/** 
+/**
 * File: 4-print_alphabt
 * Auth: Minte
 */
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - Prints the alphabet in lowercase, except for q and e.
  * Return: Always 0 (Success/correct)
 */
 int main(void)
