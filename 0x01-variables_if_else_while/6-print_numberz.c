@@ -15,7 +15,7 @@ int main(void)
 int num;
 for (num = 0; num < 10; num++)
 {
-printf("%num", num);
+putchar("%num", num);
 }
 putchar ("\n");
 return (0);
