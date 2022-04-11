@@ -4,7 +4,7 @@
 */
 #include <stdio.h>
 /**
- * main - Entry point
+ * main - entry point
  *
  * Description: Print lowercase alphabet excluding e and q
  * Return: 0
