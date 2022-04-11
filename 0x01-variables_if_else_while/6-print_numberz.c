@@ -13,9 +13,9 @@ int main(void)
 {
 int i;
 for (i = 0; i <= 9; ++i)
-Putchar('0', + i);
+putChar('0', + i);
 
-Putchar('\n');
+putChar('\n');
 
 return (0);
 }
