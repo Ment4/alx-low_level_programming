@@ -1,7 +1,3 @@
-/**
-* File: 4-print_alphabt
-* Auth: Minte
-*/
 #include <stdio.h>
 /**
  * main - entry point
