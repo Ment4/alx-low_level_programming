@@ -3,6 +3,7 @@
 * Auth: Minte
 */
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
