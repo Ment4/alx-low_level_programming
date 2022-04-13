@@ -1,9 +1,9 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * main - main block
+ * Description: Print _putchar in a new line
  * Return: 0
- **/
+ */
 int main(void)
 {
 char x[] = "_putchar";
