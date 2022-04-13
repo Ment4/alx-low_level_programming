@@ -3,7 +3,7 @@
  * jack_bever - prints every minute of the day 00:00 to 23:59
  * @void - no argument
  */
-void jack_baver(void)
+void jack_bever(void)
 {
 int i, j;
 for (i = 0; i < 24; i++)
